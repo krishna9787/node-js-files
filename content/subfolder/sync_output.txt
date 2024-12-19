@@ -1,0 +1,1 @@
+This is a combination of both files: This is sample file 1, This is a sample file 2
